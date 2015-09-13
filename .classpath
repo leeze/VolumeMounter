@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/daniel/Documents/workspace/libs/TableLayout.jar"/>
+	<classpathentry kind="lib" path="/Users/daniel/Documents/workspace/libs/jdom-2.0.6/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="ressources"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Lib_SwingGUI"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Lib_javaSTD"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Lib_Crypto"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
