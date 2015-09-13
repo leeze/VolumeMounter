@@ -30,7 +30,7 @@ import SwingGUI.SimpleQuestionDialog;
 
 public class VolumeMounter extends JFrame implements ActionListener {
 	final static String applicationname = "Vol-Mounter";
-	final static String applicationversion = "10.8";
+	final static String applicationversion = "12.0";
 	
 	KeyDispatcher oneKeyDispatcher = new KeyDispatcher (this);
 	StringBuilder tempPasswd = new StringBuilder ("");
