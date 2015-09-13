@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PersistentHashMap>
+
+  <Entry Key="0">
+    <std.XMLMountVolume name="Documents" action="mountencfs" dirname="/Users/daniel/MEGA/.documents"
+     mountpoint="/Volumes/documents" passwordprovided="true" password="safersafer" spaceafter="10" />
+  </Entry>
+
+    <Entry Key="1">
+    <std.XMLMountVolume name="MS" action="mountencfs" dirname="/Users/daniel/MEGA/.ms"
+     mountpoint="/Volumes/frog" passwordprovided="true" password="safersafer" spaceafter="10" />
+  </Entry>
+  
+</PersistentHashMap>
